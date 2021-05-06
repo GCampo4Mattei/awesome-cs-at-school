@@ -1,9 +1,21 @@
-# awesome-cs-at-school
 A list of awesome things related to teaching/learning/doing Computer Science
+
+---
 
 # Technologies
 
-# Databases
+*Stack web*
+
+## Apache
+* [Apache Httpd](http://apachelounge.com/)
+
+## Php
+* [Php](https://www.php.net/)
+### Download
+* [Php for windows TS&NTS](https://windows.php.net/download#php-8.0)
+
+
+## Databases
 * [MySql](https://www.mysql.com/)
 ### Download
 * [MySql Server&Clients](https://dev.mysql.com/downloads/mysql/)
