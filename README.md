@@ -20,3 +20,9 @@ A list of awesome things related to teaching/learning/doing Computer Science
 ### Download
 * [MySql Server&Clients](https://dev.mysql.com/downloads/mysql/)
 * [MySql Workbench](https://dev.mysql.com/downloads/workbench/)
+
+
+---
+
+### Interaction
+* [Slido.com](https://www.sli.do/) : interaction app
