@@ -26,3 +26,11 @@ A list of awesome things related to teaching/learning/doing Computer Science
 
 ### Interaction
 * [Slido.com](https://www.sli.do/) : interaction app
+
+
+### Design
+* [Lucidchart](https://www.lucidchart.com/)
+* [Diagrams.net](https://app.diagrams.net/) (ex- Draw.io)
+
+
+
