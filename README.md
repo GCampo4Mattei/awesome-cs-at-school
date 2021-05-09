@@ -27,7 +27,8 @@ A list of awesome things related to teaching/learning/doing Computer Science
 ##### Maven
 * :books: [Maven](https://maven.apache.org/scm.html)
 * :floppy_disk: [Maven](https://maven.apache.org)
-* :book: [Getting start](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
+* :book: [Getting start - 1](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
+* :book: [Getting start - 2](https://maven.apache.org/guides/getting-started/index.html)
 ---
 
 # Tools
