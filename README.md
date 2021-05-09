@@ -6,7 +6,7 @@ A list of awesome things related to teaching/learning/doing Computer Science
 
 *Stack web*
 
-## Web
+### Web
 ##### Apache
 * :house: [Apache Httpd Lounge](http://apachelounge.com/)
 
