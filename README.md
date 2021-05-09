@@ -8,10 +8,10 @@ A list of awesome things related to teaching/learning/doing Computer Science
 
 ## Web
 ##### Apache
-* [Apache Httpd](http://apachelounge.com/)
+* :house: [Apache Httpd Lounge](http://apachelounge.com/)
 
 ##### Php
-* :books: [Home PHP](https://www.php.net/)
+* :house: [Home PHP](https://www.php.net/)
 * :floppy_disk: [Php for windows TS&NTS](https://windows.php.net/download#php-8.0)
 
 ##### MySql
