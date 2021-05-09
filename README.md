@@ -16,7 +16,7 @@ A list of awesome things related to teaching/learning/doing Computer Science
 
 ##### MySql
 * :books: [MySql](https://www.mysql.com/)
-* :floppy_disk: [MySql Server&Clients](https://dev.mysql.com/downloads/mysql/)
+* :floppy_disk: [MySql Server&Clients Community Edition](https://dev.mysql.com/downloads/mysql/)
 * :floppy_disk: [MySql Workbench](https://dev.mysql.com/downloads/workbench/)
 
 ---
