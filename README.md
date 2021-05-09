@@ -12,28 +12,23 @@ A list of awesome things related to teaching/learning/doing Computer Science
 
 ##### Php
 * :books: [Home PHP](https://www.php.net/)
-### Download
-* [Php for windows TS&NTS](https://windows.php.net/download#php-8.0)
+* :floppy_disk: [Php for windows TS&NTS](https://windows.php.net/download#php-8.0)
 
-
-## Databases
-* [MySql](https://www.mysql.com/)
-### Download
-* [MySql Server&Clients](https://dev.mysql.com/downloads/mysql/)
-* [MySql Workbench](https://dev.mysql.com/downloads/workbench/)
-
+##### MySql
+* :books: [MySql](https://www.mysql.com/)
+* :floppy_disk: [MySql Server&Clients](https://dev.mysql.com/downloads/mysql/)
+* :floppy_disk: [MySql Workbench](https://dev.mysql.com/downloads/workbench/)
 
 ---
 
 # Tools
 
 ### Interaction
-* [Slido.com](https://www.sli.do/) : interaction app
-
+* :earth_africa: [Slido.com](https://www.sli.do/) : interaction app
 
 ### Design
-* [Lucidchart](https://www.lucidchart.com/)
-* [Diagrams.net](https://app.diagrams.net/) (ex- Draw.io)
+* :earth_africa: [Lucidchart](https://www.lucidchart.com/)
+* :earth_africa: [Diagrams.net](https://app.diagrams.net/) (ex- Draw.io)
 
 
 
