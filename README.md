@@ -4,9 +4,7 @@ A list of awesome things related to teaching/learning/doing Computer Science
 
 # Technologies
 
-*Stack web*
-
-### Web
+### Web stack
 ##### Apache
 * :house: [Apache Httpd Lounge](http://apachelounge.com/)
 
@@ -24,7 +22,7 @@ A list of awesome things related to teaching/learning/doing Computer Science
 ##### Java
 * :books: [MySql](https://www.mysql.com/)
 * :floppy_disk: [MySql Server&Clients Community Edition](https://dev.mysql.com/downloads/mysql/)
-##### Maven
+###### Maven
 * :books: [Maven](https://maven.apache.org/scm.html)
 * :floppy_disk: [Maven-3.x.x-bin.zip](https://downloads.apache.org/maven/maven-3)
 * :book: [Getting start - 1](https://maven.apache.org/guides/getting-started/index.html)
