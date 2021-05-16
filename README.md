@@ -31,12 +31,18 @@ A list of awesome things related to teaching/learning/doing Computer Science
 
 # Tools
 
+### Notes
+* :computer: :iphone: [Obsidian](https://obsidian.md/) : take notes and present them
+
 ### Interaction
 * :earth_africa: [Slido.com](https://www.sli.do/) : interaction app
 
 ### Design
 * :earth_africa: [Lucidchart](https://www.lucidchart.com/)
 * :earth_africa: [Diagrams.net](https://app.diagrams.net/) (ex- Draw.io)
+
+### Icons
+* :earth_africa: [Icons for markdown](https://gist.github.com/rxaviers/7360908) : complete list of github markdown emoji markup
 
 
 
