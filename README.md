@@ -46,6 +46,7 @@ A list of awesome things related to teaching/learning/doing Computer Science
 
 ### Presentation
 * :earth_africa: [Sli.dev](https://www.sli.dev/) : presentation by markdown
+* :earth_africa: [Mermaid](https://mermaid-js.github.io/) : diagrams by markdown
 
 
 
