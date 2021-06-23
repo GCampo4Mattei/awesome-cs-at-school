@@ -4,7 +4,7 @@ A list of awesome things related to teaching/learning/doing Computer Science
 
 # Technologies
 
-### Web stack
+### Classical Web stack
 ##### Apache
 * :house: [Apache Httpd Lounge](http://apachelounge.com/)
 
@@ -43,6 +43,9 @@ A list of awesome things related to teaching/learning/doing Computer Science
 
 ### Icons
 * :earth_africa: [Icons for markdown](https://gist.github.com/rxaviers/7360908) : complete list of github markdown emoji markup
+
+### Presentation
+* :earth_africa: [Sli.dev](https://www.sli.dev/) : presentation by markdown
 
 
 
