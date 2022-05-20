@@ -20,13 +20,18 @@ A list of awesome things related to teaching/learning/doing Computer Science
 
 ### Languages
 ##### Java
-* :books: [MySql](https://www.mysql.com/)
-* :floppy_disk: [MySql Server&Clients Community Edition](https://dev.mysql.com/downloads/mysql/)
+* :books: [OpenJdk](https://openjdk.java.net/)
+* :floppy_disk: [JDK](https://jdk.java.net/archive/)
 ###### Maven
 * :books: [Maven](https://maven.apache.org/scm.html)
 * :floppy_disk: [Maven-3.x.x-bin.zip](https://downloads.apache.org/maven/maven-3)
 * :book: [Getting start - 1](https://maven.apache.org/guides/getting-started/index.html)
 * :clock5: [Getting start - 2](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
+
+### Versioning
+#### Git
+* :floppy_disk: [Git](https://git-scm.com/)
+
 ---
 
 # Tools
@@ -47,6 +52,3 @@ A list of awesome things related to teaching/learning/doing Computer Science
 ### Presentation
 * :earth_africa: [Sli.dev](https://www.sli.dev/) : presentation by markdown
 * :earth_africa: [Mermaid](https://mermaid-js.github.io/) : diagrams by markdown
-
-
-
